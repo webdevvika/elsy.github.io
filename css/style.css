@@ -1,0 +1,317 @@
+﻿body{
+	margin: 0;
+	font-family:'Arial'; 
+	font-size: 18px;
+}
+
+header {
+	padding-top: 10px;
+	padding-bottom: 0px ;
+	color: #fff;
+	}
+
+.social-block a{
+	display: inline-block;
+	margin-right: 0px;
+	margin-top: 10px;
+	font-size: 15px;
+	text-decoration:none;
+
+}
+ a {
+    color: #000000; /* Цвет обычной ссылки */
+    padding: 10px; /* Поля вокруг текста */
+   }
+  .social-block a:hover {
+    text-decoration: none; /* Убираем подчеркивание */
+    color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+    background: #303f9f; /* Цвет фона */
+   }
+
+  
+ .portfolio{
+	padding-top: 40px;
+}
+
+.header-title{
+	font-size: 30px;
+	font-weight: 400;
+margin-top: 0px;
+
+}
+.social {margin-left: 100px; 
+
+}
+.header-pretitle{
+font-size: 12px;
+margin-top: 10px;
+}
+.header-button{
+	
+text-decoration: none;
+border-radius: 3px;
+background-color:#4caf50;
+color: #ffffff;
+font-size: 12px;
+padding: 10px 30px;
+ border: 0;
+}
+.header-but{
+	text-decoration: none;
+border-radius: 3px;
+background-color: #303f9f;
+color: #ffffff;
+font-size: 12px;
+padding: 10px 30px;
+ border: 2px solid #fff;
+ margin-bottom: 20px;
+}
+.advertising{
+	padding-left: 100px;
+	padding-right: 100px;
+	margin-top: 50px;
+	background-color: #303f9f;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.frame{
+		width: 270px;	height: 370px; /* Размеры */
+    background: #fff; /* Цвет фона */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 5px; /* Радиус скругления */
+
+}
+.frame1{
+margin-top: 20px; /* отсуп картинки внутри рамки */
+}
+
+.adv2 {
+	margin-left: 20px;
+	font-size: 18px;
+	font-weight: 10;
+}
+.order
+{
+	 text-decoration: none;
+	 	margin-left: 10px;
+	 	font-size: 14px;
+}
+.frame2{
+		width: 270px;	height: 370px; /* Размеры */
+    background: #fff; /* Цвет фона */
+    border: 3px solid #fff; /* Белая рамка */
+    border-radius: 5px; /* Радиус скругления */
+
+}
+.frame3{
+		width: 270px;	height: 370px; /* Размеры */
+    background:  #303f9f; /* Цвет фона */
+    border-radius: 5px; /* Радиус скругления */
+    border: 2px dashed #fff;
+}
+
+.order1{
+	 
+	 	color: #fff;
+}
+.adv3{
+	color: #fff;
+
+}
+.frame4
+{
+	margin-top: 50px;
+}
+.frame5{
+		width: 270px;	height: 370px; /* Размеры */
+    background:  #303f9f; /* Цвет фона */
+    border-radius: 5px; /* Радиус скругления */
+    border: 2px dashed ;
+}
+.frame6{
+margin-top: 50px;
+}
+.adv4 {
+
+}
+.goods
+{
+		padding-left: 200px;
+	margin-top: 50px;
+	padding-right: 100px;
+	padding-top: 15px;
+	padding-bottom: 100px;
+}
+.goods1{
+
+	font-size: 14px;
+
+}
+
+
+
+footer
+{
+		background-color: #303f9f;
+		color: #fff;
+		font-size: 12px;
+
+}
+
+.footer1{
+	font-size: 20px;
+	text-align: right;
+}
+.company {
+	background-color:#4caf50;
+		padding-top: 20px;
+	padding-bottom: 10px;
+	color: #ffffff;
+	padding-left: 400px;
+}
+
+.company p {
+	font-size: 12px;
+}
+
+
+
+.company1{
+		
+	
+	padding-top: 20px;
+}
+
+.company1 p{
+		font-size: 14px;
+}
+
+
+.logo a{
+	text-decoration: none;
+	 padding: 0px;
+}
+
+.header-button:hover{
+    background: #303f9f; /* Цвет фона */
+
+}
+	
+.order:hover{
+    background: #303f9f;
+}
+.client img{
+	width: 13%;
+}
+
+.client2 img{
+	margin-left: 30px;
+	width: 70%;
+
+}
+
+.client2 a{
+	font-size: 12px ;
+}
+
+.company3{
+	padding-left: 100px;
+padding-top: 20px;
+padding-right: 100px;
+}
+.adres {
+	padding-top: 100px;
+	padding-bottom: 100px;
+	padding-left: 100px;
+}
+.prodykt{
+	background-color:#42a245;
+		padding-top: 70px;
+	padding-bottom: 70px;
+	color: #ffffff;
+	padding-left: 50px;
+		font-size: 15px ;
+
+}
+.prodykt a {
+	text-decoration: none; /* Убираем подчеркивание */
+    color: #fff; /* Цвет ссылки при наведении на нее курсора мыши */  
+}
+.prodykt1{
+	text-decoration: none;
+border-radius: 3px;
+background-color:#fff;
+color:#42a245 !important;
+font-size: 12px;
+padding: 10px 30px;
+ border: 0;
+}
+.prodykt1:hover{
+    background: #303f9f;
+}
+.prodykt img{
+	width: 10%;
+}
+.prodykt2 {
+	padding-top: 50px;
+	padding-left: 300px;
+	padding-bottom: 200px;
+	font-size: 14px;
+}
+
+.azs1{
+	padding-left: 100px;
+
+}
+.azs{
+	padding-bottom: 120px;
+	padding-top: 60px;
+}
+.azs2{
+	text-decoration: none;
+border-radius: 3px;
+color: ;
+font-size: 12px;
+padding: 10px 30px;
+ border: 2px solid #000000;
+ margin-bottom: 20px;
+
+margin-left: 30px;}
+.azs2:hover{
+    background: #42a245;
+}
+.program{
+	 background:  #303f9f;
+	 padding-bottom: 15px;
+	 padding-top: 15px;
+	 color: #fff;
+}
+.po2{
+	padding-top: 40px;
+font-size: 15px;
+padding-bottom: 100px;
+}
+.po2 a{
+	text-decoration: none;
+	color: #000000; /* Цвет обычной ссылки */
+    padding: 10px; /* Поля вокруг текста */
+}
+.po2 a:hover{
+    background: #42a245;
+     text-decoration: none; /* Убираем подчеркивание */
+    color: #fff;
+}
+.po3 {
+	padding-top: 20px;
+	font-size: 15px;
+	padding-bottom: 10px;
+ }
+.ris img{
+	width: 100%;
+}
+.ris{
+	padding-top: 30px;
+}
+.text1 {
+font-size: 15px;
+}
